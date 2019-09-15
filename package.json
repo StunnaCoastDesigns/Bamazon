@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StunnaCoastDesigns/Bamazon/issues"
   },
-  "homepage": "https://github.com/StunnaCoastDesigns/Bamazon#readme"
+  "homepage": "https://github.com/StunnaCoastDesigns/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
 }
